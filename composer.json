@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient": "^2.2",
+        "rbdwllr/reallysimplejwt": "^1.1"
+    }
+}
